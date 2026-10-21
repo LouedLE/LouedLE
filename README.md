@@ -5,7 +5,7 @@ Je cherche un **stage de 4 mois, d'avril à août 2027**, en data engineering ou
 
 **Projets**
 
-- [velib-pipeline](https://github.com/LouedLE/velib-pipeline) : pipeline de bout en bout sur l'open data Vélib. Collecte horaire automatisée, architecture bronze / silver / gold avec dbt et DuckDB, une trentaine de tests de qualité, dashboard Streamlit.
+- [velib-pipeline](https://github.com/LouedLE/velib-pipeline) : pipeline de bout en bout sur l'open data Vélib. Collecte automatisée, architecture bronze / silver / gold avec dbt et DuckDB, une trentaine de tests de qualité, dashboard Streamlit.
 - [ece-2026-bigdata](https://github.com/LouedLE/ece-2026-bigdata) : travaux de cours Big Data. Génération de jeux de données, pipeline medallion dbt, requêtes DuckDB, job Kubernetes d'ingestion.
 
 **Outils**
